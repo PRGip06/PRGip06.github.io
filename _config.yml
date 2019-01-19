@@ -1,7 +1,7 @@
 theme: jekyll-theme-cayman
 
 ## Overview
-A to-do list that allows the user to dynamically create a list, strike through items on the list and delete the items on the list.
+A todo list that allows the user to dynamically create a list, strike through items on the list and delete the items on the list.
 <br>
 
 ## Live Demo
